@@ -2,7 +2,7 @@
 
 ### 💻 Tech Stack
 * **Backend:** Java, Spring Boot
-* **Mobile:** React Native
+* **Mobile:** React.Js
 * **Database:** MySQL
 
 
